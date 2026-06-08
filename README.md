@@ -6,6 +6,11 @@ This project is a Human Resource Management System built with:
 - Backend: Node.js + Express
 - Database: PostgreSQL-compatible SQL
 
+## Demo Video
+
+🎥 Watch the project demo:
+https://drive.google.com/file/d/1GAznsZ_Yj5lAlkVk206AaoGpbFQVasSI/view?usp=sharing
+
 ## Features
 
 - Organisation registration and login
@@ -13,7 +18,7 @@ This project is a Human Resource Management System built with:
 - Employee CRUD
 - Team CRUD
 - Employee-to-team assignment and removal
-- Audit logging for login, logout, create, update, delete, and assignment actions
+- Audit logging for login, logout, create, update, delete, and assignment actions.
 
 ## Project Structure
 
